@@ -1,0 +1,8 @@
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\bin\Debug\Lab4.exe.config
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\bin\Debug\Lab4.exe
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\bin\Debug\Lab4.pdb
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\obj\Debug\Lab4.exe
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\obj\Debug\Lab4.pdb
+G:\Gaurav\5thSem\DotNet\Lab3\Lab4\Lab4\obj\Debug\Lab4.exe.config

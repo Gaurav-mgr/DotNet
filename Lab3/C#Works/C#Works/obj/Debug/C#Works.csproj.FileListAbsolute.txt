@@ -1,0 +1,8 @@
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\bin\Debug\C#Works.exe.config
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\bin\Debug\C#Works.exe
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\bin\Debug\C#Works.pdb
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\obj\Debug\C#Works.csproj.AssemblyReference.cache
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\obj\Debug\C#Works.csproj.CoreCompileInputs.cache
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\obj\Debug\C#Works.exe
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\obj\Debug\C#Works.pdb
+G:\Gaurav\5thSem\DotNet\Lab3\C#Works\C#Works\obj\Debug\C#Works.exe.config

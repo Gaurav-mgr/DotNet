@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lab3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|g:\\gaurav\\5thsem\\dotnet\\lab3\\lab3\\lab3\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\lab3\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DF9C3-8778-4F04-A49D-564C31CA41C0}|Lab3\\Lab3.csproj|g:\\gaurav\\5thsem\\dotnet\\lab3\\lab3\\lab3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "q9.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q9.cs",
+              "RelativeDocumentMoniker": "Lab3\\q9.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q9.cs",
+              "RelativeToolTip": "Lab3\\q9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:41:16.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "q8.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q8.cs",
+              "RelativeDocumentMoniker": "Lab3\\q8.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q8.cs",
+              "RelativeToolTip": "Lab3\\q8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:55:08.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q7.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q7.cs",
+              "RelativeDocumentMoniker": "Lab3\\q7.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q7.cs",
+              "RelativeToolTip": "Lab3\\q7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T06:23:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "q6.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q6.cs",
+              "RelativeDocumentMoniker": "Lab3\\q6.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q6.cs",
+              "RelativeToolTip": "Lab3\\q6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:21:52.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "q5.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q5.cs",
+              "RelativeDocumentMoniker": "Lab3\\q5.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q5.cs",
+              "RelativeToolTip": "Lab3\\q5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:10:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "q4.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q4.cs",
+              "RelativeDocumentMoniker": "Lab3\\q4.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q4.cs",
+              "RelativeToolTip": "Lab3\\q4.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:05:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "q3.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q3.cs",
+              "RelativeDocumentMoniker": "Lab3\\q3.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q3.cs",
+              "RelativeToolTip": "Lab3\\q3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:59:52.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "q10.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q10.cs",
+              "RelativeDocumentMoniker": "Lab3\\q10.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q10.cs",
+              "RelativeToolTip": "Lab3\\q10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:26:33.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "q2.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q2.cs",
+              "RelativeDocumentMoniker": "Lab3\\q2.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q2.cs",
+              "RelativeToolTip": "Lab3\\q2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:57:49.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "q1.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q1.cs",
+              "RelativeDocumentMoniker": "Lab3\\q1.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\q1.cs",
+              "RelativeToolTip": "Lab3\\q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:51:07.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab3",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\Lab3.csproj",
+              "RelativeDocumentMoniker": "Lab3\\Lab3.csproj",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\Lab3\\Lab3\\Lab3.csproj",
+              "RelativeToolTip": "Lab3\\Lab3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T04:56:13.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

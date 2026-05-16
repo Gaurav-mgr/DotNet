@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD7378-BFDC-41AB-8067-8814AE6D1170}|C#Works\\C#Works.csproj|g:\\gaurav\\5thsem\\dotnet\\lab3\\c#works\\c#works\\opovld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD7378-BFDC-41AB-8067-8814AE6D1170}|C#Works\\C#Works.csproj|solutionrelative:c#works\\opovld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|C#Works||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD7378-BFDC-41AB-8067-8814AE6D1170}|C#Works\\C#Works.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\c#works\\5thsemsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD7378-BFDC-41AB-8067-8814AE6D1170}|C#Works\\C#Works.csproj|solutionrelative:c#works\\5thsemsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD7378-BFDC-41AB-8067-8814AE6D1170}|C#Works\\C#Works.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\c#works\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD7378-BFDC-41AB-8067-8814AE6D1170}|C#Works\\C#Works.csproj|solutionrelative:c#works\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD7378-BFDC-41AB-8067-8814AE6D1170}|C#Works\\C#Works.csproj|g:\\gaurav\\5thsem\\dotnet\\lab3\\c#works\\c#works\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpOvld.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\OpOvld.cs",
+              "RelativeDocumentMoniker": "C#Works\\OpOvld.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\OpOvld.cs",
+              "RelativeToolTip": "C#Works\\OpOvld.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:38:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C#Works",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\C#Works.csproj",
+              "RelativeDocumentMoniker": "C#Works\\C#Works.csproj",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\C#Works.csproj",
+              "RelativeToolTip": "C#Works\\C#Works.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-07T14:22:07.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5thSemSub.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\5thSemSub.cs",
+              "RelativeDocumentMoniker": "C#Works\\5thSemSub.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\5thSemSub.cs",
+              "RelativeToolTip": "C#Works\\5thSemSub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:11:30.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\Program.cs",
+              "RelativeDocumentMoniker": "C#Works\\Program.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\C#Works\\C#Works\\Program.cs",
+              "RelativeToolTip": "C#Works\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:10:50.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

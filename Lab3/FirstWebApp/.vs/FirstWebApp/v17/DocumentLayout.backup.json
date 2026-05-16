@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF6AF32-9215-4171-BA72-654B1569BAB2}|FirstWebApp\\FirstWebApp.csproj|g:\\gaurav\\5thsem\\dotnet\\lab3\\firstwebapp\\firstwebapp\\validation2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF6AF32-9215-4171-BA72-654B1569BAB2}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\validation2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF6AF32-9215-4171-BA72-654B1569BAB2}|FirstWebApp\\FirstWebApp.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\firstwebapp\\validation2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0AF6AF32-9215-4171-BA72-654B1569BAB2}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\validation2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF6AF32-9215-4171-BA72-654B1569BAB2}|FirstWebApp\\FirstWebApp.csproj|G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\firstwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0AF6AF32-9215-4171-BA72-654B1569BAB2}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validation2.aspx.cs",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\FirstWebApp\\Validation2.aspx.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Validation2.aspx.cs",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\FirstWebApp\\Validation2.aspx.cs",
+              "RelativeToolTip": "FirstWebApp\\Validation2.aspx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:55:26.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validation2.aspx",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\FirstWebApp\\Validation2.aspx",
+              "RelativeDocumentMoniker": "FirstWebApp\\Validation2.aspx",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\FirstWebApp\\Validation2.aspx",
+              "RelativeToolTip": "FirstWebApp\\Validation2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T04:25:53.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\FirstWebApp\\Web.config",
+              "RelativeDocumentMoniker": "FirstWebApp\\Web.config",
+              "ToolTip": "G:\\Gaurav\\5thSem\\DotNet\\Lab3\\FirstWebApp\\FirstWebApp\\Web.config",
+              "RelativeToolTip": "FirstWebApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-16T03:49:32.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

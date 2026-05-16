@@ -1,0 +1,7 @@
+G:\Gaurav\5thSem\DotNet\Lab3\Lab\Lab\bin\Debug\Lab.exe.config
+G:\Gaurav\5thSem\DotNet\Lab3\Lab\Lab\bin\Debug\Lab.exe
+G:\Gaurav\5thSem\DotNet\Lab3\Lab\Lab\bin\Debug\Lab.pdb
+G:\Gaurav\5thSem\DotNet\Lab3\Lab\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+G:\Gaurav\5thSem\DotNet\Lab3\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+G:\Gaurav\5thSem\DotNet\Lab3\Lab\Lab\obj\Debug\Lab.exe
+G:\Gaurav\5thSem\DotNet\Lab3\Lab\Lab\obj\Debug\Lab.pdb

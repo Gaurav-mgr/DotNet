@@ -9,41 +9,18 @@ The project is organized clean and modularly, separating each laboratory assignm
 Plaintext
 📁 DotNet-LabWorks/
 │
-├── 📁 Lab1/          
-├── 📁 Lab2/             
-├── 📁 Lab3/      
-    ├── 📁 Lab_3/      
-    ├── 📁 Lab_4/    
-    ├── 📁 Lab_5/            
-    ├── 📁 Lab_6/ 
-    ├── 📁 Lab_7/
-    ├── 📁 Lab_8/ 
-    ├── 📁 MyFirstApp(Lab9)/ 
-    └── 📄 README.md               # You are here!
+├── 📁 Lab1/                         #  Introduction to C#
+├── 📁 Lab2/                         #  Control statement in C#
+├── 📁 Lab3/                         #  Contains lab 3 - 9
+    ├── 📁 Lab_3/                    #  Array and Parameters
+    ├── 📁 Lab_4/                    #  Class, Object adn Constructors
+    ├── 📁 Lab_5/                    #  Concept of Abstract class, method, Inheritance, Property and Indexer
+    ├── 📁 Lab_6/                    #  Concept of Polymorphism adn Generics
+    ├── 📁 Lab_7/                    #  Concept of delegate, inline function, event, and exception handling
+    ├── 📁 Lab_8/                    #  LINQ and Database Connectivity
+    ├── 📁 MyFirstApp(Lab9)/         #  Web Apps and Validation
+    └── 📄 README.md                 #  You are here!
 
-🛠️ Prerequisites
-To run these lab works locally, ensure you have the following installed on your machine:
-
-- .NET SDK (v8.0 or later recommended)
-
-- An IDE/Code Editor:
-
-  - Visual Studio 2022 (with .NET desktop development workload) OR
-
-  - Visual Studio Code (with C# Dev Kit extension)
-
-- Git (for version control cloning)
-
-💡 Core Concepts Explored
-This repository covers a comprehensive progression through the C# language:
-
-Object-Oriented Programming (OOP): Solidifying concepts like abstraction, encapsulation, inheritance, and runtime/compile-time polymorphism.
-
-Memory & Resource Management: Working with using statements, garbage collection understanding, and proper file handling.
-
-Modern C# Features: Leveraging lambda expressions, anonymous types, auto-properties, and null-conditional operators.
-
-Data Manipulation: Implementing fluent and query-syntax LINQ statements to filter, sort, and project collections efficiently.
 
 📝 Author Note
 This repository is maintained for educational and academic reference. Feel free to use the code snippets as a reference for your own learning, but remember to understand the logic before adapting it!

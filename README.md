@@ -18,7 +18,7 @@ The project is organized clean and modularly, separating each laboratory assignm
         ├── 📁 Lab_6/                    #  Concept of Polymorphism adn Generics
         ├── 📁 Lab_7/                    #  Concept of delegate, inline function, event, and exception handling
         ├── 📁 Lab_8/                    #  LINQ and Database Connectivity
-        ├── 📁 MyFirstApp(Lab9)/         #  Web Apps and Validation
+        ├── 📁 FirstWebApp(Lab9)/         #  Web Apps and Validation
         └── 📄 README.md                 #  You are here!
         
 ## 📝 Author Note

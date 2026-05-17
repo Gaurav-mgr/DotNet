@@ -12,12 +12,12 @@ The project is organized clean and modularly, separating each laboratory assignm
     ├── 📁 Lab1/                         #  Introduction to C#
     ├── 📁 Lab2/                         #  Control statement in C#
     ├── 📁 Lab3/                         #  Note: Contains lab 3 - 9
-        ├── 📁 Lab_3/                    #  Array and Parameters
-        ├── 📁 Lab_4/                    #  Class, Object adn Constructors
-        ├── 📁 Lab_5/                    #  Concept of Abstract class, method, Inheritance, Property and Indexer
-        ├── 📁 Lab_6/                    #  Concept of Polymorphism adn Generics
-        ├── 📁 Lab_7/                    #  Concept of delegate, inline function, event, and exception handling
-        ├── 📁 Lab_8/                    #  LINQ and Database Connectivity
+        ├── 📁 Lab3/                    #  Array and Parameters
+        ├── 📁 Lab4/                    #  Class, Object adn Constructors
+        ├── 📁 Lab5/                    #  Concept of Abstract class, method, Inheritance, Property and Indexer
+        ├── 📁 Lab6/                    #  Concept of Polymorphism adn Generics
+        ├── 📁 Lab7/                    #  Concept of delegate, inline function, event, and exception handling
+        ├── 📁 Lab8/                    #  LINQ and Database Connectivity
         ├── 📁 FirstWebApp(Lab9)/         #  Web Apps and Validation
         └── 📄 README.md                 #  You are here!
         

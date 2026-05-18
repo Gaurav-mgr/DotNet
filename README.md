@@ -22,4 +22,4 @@ The project is organized clean and modularly, separating each laboratory assignm
         └── 📄 README.md                 #  You are here!
         
 ## 📝 Author Note
-This repository is maintained for educational and academic reference. Feel free to use the code snippets as a reference for your own learning, but remember to understand the logic before adapting it!
+This repository is maintained for educational and academic reference only. The sole purpose of this repository is to give a foundation to learn and gain knowledge while learning how the code works and what does it do.

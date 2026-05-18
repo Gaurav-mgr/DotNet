@@ -22,4 +22,4 @@ The project is organized clean and modularly, separating each laboratory assignm
         └── 📄 README.md                 #  You are here!
         
 ## 📝 Author Note
-This repository is maintained for educational and academic reference only. The sole purpose of this repository is to give a foundation to learn and gain knowledge while learning how the code works and what does it do.
+This repository is maintained for educational and academic reference only. The sole purpose of this repository is to give a foundation to learn and gain knowledge while learning how the code works and what does it do. This repository does not support or incite plagiarism.
